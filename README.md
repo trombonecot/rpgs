@@ -1,1 +1,1 @@
-# rpgs
+# rpgs en català
